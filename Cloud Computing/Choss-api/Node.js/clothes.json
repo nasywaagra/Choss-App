@@ -1,0 +1,12 @@
+{
+    "women": [
+      "Blouse",
+      "Dress",
+      "cardigan"
+    ],
+    "men": [
+      "Shirt",
+      "Jeans",
+      "Jacket"
+    ]
+  }
