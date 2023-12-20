@@ -78,7 +78,8 @@ if __name__ == '__main__':
 - **MBTI-Based Recommendations:** Discover fashion suggestions tailored to your unique personality type.
 - **Tops and Bottoms Styling:** Get personalized recommendations for both tops and bottoms.
 - **Free and Accessible:** FashionInsight is completely free to use, ensuring that everyone can access personalized style advice.
-- **Anywhere, Anytime:** Enjoy the flexibility of using our app anytime, anywhere, without restrictions on time or location.
+- **Anywhere, Anytime:** Enjoy the flexibility of using our app anytime, anywhere, without restrictions on time or location
+- **Shop Recommendation:** Provides and displays several online store recommendations for purchasing clothing item recommendations
 
 ## Future Feature
 
@@ -90,6 +91,7 @@ if __name__ == '__main__':
 - Advanced Personalization Algorithms
 - Social Collaboration
 - Expert Fashion Insights
+  
 
 ## Project Status
 
@@ -102,3 +104,4 @@ ChoSS is an actively developed project with a focus on continuous improvement an
   - Free and accessible to all users.
   - Anytime, anywhere access.
   - Try-on Virtual
+  - Online Shop Recommendation
