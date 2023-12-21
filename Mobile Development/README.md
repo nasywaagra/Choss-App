@@ -4,8 +4,6 @@
 
 ## UI DESIGN
 
-![UI](APP UI/1.png)
-
 ## Features
 
 ### Choss App
