@@ -3,16 +3,16 @@
 </h1>
 
 ## UI DESIGN
-
+![alt text](https://github.com/nasywaagra/Choss-App/blob/master/Mobile%20Development/APP%20UI.png?raw=true)
 
 ## Features
-
 ### Choss App
 - Splash Screen
 - Onboarding Screen
 - Login
 - Registration
 - Home Screen with Main Menu
+- Change Language
 - Clothes Storage
 - Profile
 - Personality Category
@@ -29,6 +29,10 @@
 - GSON
 - GSON Converter
 - Navigation Component
+- LiveData
+- Room
+- OkHttp
+- CameraX
   
 ## Architecture
 This app uses [MVVM](https://developer.android.com/topic/architecture#recommended-app-arch)https://developer.android.com/topic/architecture#recommended-app-arch Architecture
