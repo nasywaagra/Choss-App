@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">ChossApp</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="onboarding_title_1" translatable="false">Welcome to Choss!</string>
+    <string name="onboarding_message_1" translatable="false">Find a unique style that suits your personality. Everything you need to look trendy everyday !</string>
+    <string name="onboarding_title_2" translatable="false">Personalize Your Choices!</string>
+    <string name="onboarding_message_2" translatable="false">Let’s get to know you better. Select preferences to get fashion recommendations that suit your style !</string>
+    <string name="get_started">Get Started</string>
+    <string name="choose_get_your_style_here">Choose &amp; Get Your Style Here!</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="don_t_have_an_account_yet">Don\'t have an account yet?</string>
+    <string name="register_here">Register here</string>
+    <string name="username">Username</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login_here">Login here</string>
+    <string name="enter_your_registered_email_below">Enter your registered email below</string>
+    <string name="submit">Submit</string>
+    <string name="remember_the_password">Remember the password?</string>
+    <string name="home">Home</string>
+    <string name="mycloth">My Cloth</string>
+    <string name="profile">Profile</string>
+    <string name="hello">Hello,</string>
+    <string name="take_your_personality">Take your Personality</string>
+    <string name="shop_recommendation">Shop Recommendation</string>
+    <string name="change_new_password">Change New Password</string>
+    <string name="enter_a_different_password">Enter a different password from the previous</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="search_my_outfit">Search my outfit…</string>
+    <string name="my_profile">My Profile</string>
+    <string name="name">Name</string>
+    <string name="logout">Logout</string>
+    <string name="dummyemail" translatable="false">emailuser@email.com</string>
+    <string name="personality">Personality</string>
+    <string name="choose_category">Choose the category and find your style!</string>
+    <string name="want_to_know_personality">Want to know your personality?</string>
+    <string name="analyst">Analyst</string>
+    <string name="diplomats">Diplomats</string>
+    <string name="sentinels">Sentinels</string>
+    <string name="explorers">Explorers</string>
+    <string name="enter_your_data">Enter your data to find out recommendations</string>
+    <string name="select_gender">Select Gender</string>
+    <string name="men">Men</string>
+    <string name="women">Women</string>
+    <string name="select_age">Input your age</string>
+    <string name="age">Age</string>
+    <string name="get_recommendation">Get Recommendation</string>
+    <string name="recommendation">Recommendation</string>
+    <string name="top">Top</string>
+    <string name="bottom">Bottom</string>
+    <string name="tone_colour_recommendation_is">Tone Colour Recommendation is</string>
+    <string name="click_here">Click here</string>
+    <string name="for_shop_recommendation">for shop recommendation</string>
+    <string name="add_to_mycloth">Add to MyCloth</string>
+    <string name="choose_colour">Choose Colour</string>
+    <string name="try_on">Try On!</string>
+    <string name="search_type_cloth">Search type cloth…</string>
+    <string name="no_saved_cloth">No Cloth Saved</string>
+
+    <string-array name="ages" translatable="false">
+        <item>15-20th</item>
+        <item>21-25th</item>
+        <item>26-30th</item>
+        <item>35-40th</item>
+    </string-array>
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="200dp"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cv_mycloth"
+        android:layout_width="190dp"
+        android:layout_height="180dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        app:cardCornerRadius="15dp">
+
+        <ImageView
+            android:id="@+id/iv_mycloth"
+            android:layout_width="match_parent"
+            android:layout_height="145dp"
+            android:contentDescription="@null"
+            android:scaleType="fitCenter"
+            tools:src="@drawable/dress1"/>
+
+        <TextView
+            android:id="@+id/tv_mycloth"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginStart="15dp"
+            android:layout_marginBottom="15dp"
+            android:ellipsize="end"
+            android:fontFamily="@font/sen_bold"
+            android:textSize="16sp"
+            tools:text="White Dress" />
+
+        <ImageButton
+            android:id="@+id/btn_delete_cloth"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_gravity="bottom|end"
+            android:layout_marginEnd="15dp"
+            android:layout_marginBottom="15dp"
+            android:background="@android:color/transparent"
+            android:contentDescription="@null"
+            android:src="@drawable/ic_trash" />
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

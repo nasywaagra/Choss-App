@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="200dp"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cv_mycloth"
+        android:layout_width="190dp"
+        android:layout_height="185dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        app:cardBackgroundColor="#F8F8F8"
+        app:cardCornerRadius="15dp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/iv_personality"
+                android:layout_width="100dp"
+                android:layout_height="110dp"
+                android:layout_marginTop="15dp"
+                android:contentDescription="@null"
+                android:src="@drawable/intj"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/tv_personality"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:fontFamily="@font/sen_bold"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="@+id/iv_personality"
+                app:layout_constraintStart_toStartOf="@+id/iv_personality"
+                app:layout_constraintTop_toBottomOf="@id/iv_personality"
+                tools:text="INTP" />
+
+            <ImageView
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:layout_marginTop="3dp"
+                android:contentDescription="@null"
+                android:src="@drawable/ic_info"
+                app:layout_constraintEnd_toEndOf="@+id/tv_personality"
+                app:layout_constraintStart_toStartOf="@+id/tv_personality"
+                app:layout_constraintTop_toBottomOf="@id/tv_personality" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>
