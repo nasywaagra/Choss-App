@@ -3,9 +3,9 @@
 </h1>
 
 ## UI DESIGN
+![alt text](https://github.com/nasywaagra/Choss-App/blob/master/Mobile%20Development/APP%20UI.png?raw=true)
 
 ## Features
-
 ### Choss App
 - Splash Screen
 - Onboarding Screen
