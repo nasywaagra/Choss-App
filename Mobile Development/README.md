@@ -12,6 +12,7 @@
 - Login
 - Registration
 - Home Screen with Main Menu
+- Change Language
 - Clothes Storage
 - Profile
 - Personality Category
