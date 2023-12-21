@@ -4,7 +4,7 @@
 
 ## UI DESIGN
 ![alt text](https://github.com/nasywaagra/Choss-App/blob/master/Mobile%20Development/APP%20UI.png?raw=true)
-- Create UI Design Using Figma and This is Our [App Design](https://www.figma.com/file/2mJvJoYvutgD9nA1rJT5uz/CHOSS?type=design&node-id=0%3A1&mode=design&t=hVNMTfC5OLRxjNZ0-1) before Develoe to Android Studio
+- Create UI Design Using Figma and This is Our [App Design](https://www.figma.com/file/2mJvJoYvutgD9nA1rJT5uz/CHOSS?type=design&node-id=0%3A1&mode=design&t=hVNMTfC5OLRxjNZ0-1) before Develope to Android Studio
 
 ## Features
 ### Choss App
