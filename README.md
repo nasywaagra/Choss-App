@@ -47,7 +47,7 @@ pip install opencv-python
 - Deploy the Recommendation Fashion Model from Python to the application using the following steps:
   1. Open [RecomFashion.py](https://github.com/nasywaagra/Choss-App/blob/master/Machine%20Learning/RecomFashion.py) in your Python environment.
   2. Load the dataset [fashion_dataset_updated.xslx](https://github.com/nasywaagra/Choss-App/blob/master/Machine%20Learning/fashion_dataset_updated.xlsx) into the model.
-  3. Train the model to provide accurate fashion recommendations.
+  3. Train the model to provide accurate fashion recommendations.https://drive.google.com/file/d/1FG0Xa4i1HNfyxIlReJsA9b1vaOrCZMUR/view?usp=drive_link
   4. Save the trained model.
 
 ### Step 5: Deploy Using API
