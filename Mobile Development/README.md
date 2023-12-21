@@ -29,6 +29,10 @@
 - GSON
 - GSON Converter
 - Navigation Component
+- LiveData
+- Room
+- OkHttp
+- CameraX
   
 ## Architecture
 This app uses [MVVM](https://developer.android.com/topic/architecture#recommended-app-arch)https://developer.android.com/topic/architecture#recommended-app-arch Architecture
