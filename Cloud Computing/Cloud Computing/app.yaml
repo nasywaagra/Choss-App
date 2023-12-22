@@ -1,0 +1,19 @@
+runtime: nodejs
+service: mysql
+env: flex
+
+handlers:
+  - url: /.*
+    script: auto
+
+automatic_scaling:
+  min_num_instances: 1
+  max_num_instances: 5
+  cpu_utilization:
+    target_utilization: 0.5
+
+env_variables:
+  DB_HOST: '34.101.72.80'
+  DB_USER: 'root'
+  DB_PASSWORD: '12345'
+  DB_NAME: 'chossv1'
