@@ -1,8 +1,0 @@
-runtime: nodejs16
-service: backend
-env_variables:
-  DB_HOST: "34.101.121.96"
-  DB_USER: "root"
-  DB_PASSWORD: "12345"
-  DB_DATABASE: "chossv1"
-  JWT_SECRET: "chooseme"
